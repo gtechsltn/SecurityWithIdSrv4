@@ -7,6 +7,8 @@ Generally speaking, I consider two groups of connections or applications:
 
 ![PureSourceCode https://www.puresourcecode.com](https://www.puresourcecode.com/wp-content/uploads/2020/10/Security-Workflow-IdentityServer.jpg)
 
++ https://puresourcecode.com/tag/identityserver4/
+
 ## Projects
 
 ### IdentityServerHost
